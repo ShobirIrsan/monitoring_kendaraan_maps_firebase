@@ -19,4 +19,4 @@ indonesia.
 program ini merupakan program untuk menampilkan posisi pada aplikasi dengan menggunakna google maps dan firebase sebagai tempat penyimpanan data posisi
 program ini bisa digunakan untuk aplikasi monitoring device iot. 
 untuk file google jaso.h anda bisa merubah filenya dengna file projek data base yang anda punya. (android -> app ->"google-services.json").
-dan untuk api key maps anda dapat merubahnya dengan yang anda punya.
+dan untuk api key maps anda dapat merubahnya dengan yang anda punya. (/android/app/src/main/AndroidManifest.xml) >
