@@ -14,5 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+indonesia.
 
-
+program ini merupakan program untuk menampilkan posisi pada aplikasi dengan menggunakna google maps dan firebase sebagai tempat penyimpanan data posisi
+program ini bisa digunakan untuk aplikasi monitoring device iot. 
+untuk file google jaso.h anda bisa merubah filenya dengna file projek data base yang anda punya.
+dan untuk api key maps anda dapat merubahnya dengan yang anda punya.
