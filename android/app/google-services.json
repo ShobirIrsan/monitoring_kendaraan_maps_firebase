@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434052734276",
+    "firebase_url": "https://monitoring-kendaraan-46f89.firebaseio.com",
+    "project_id": "monitoring-kendaraan-46f89",
+    "storage_bucket": "monitoring-kendaraan-46f89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434052734276:android:f5682b14732c9c79c2cb11",
+        "android_client_info": {
+          "package_name": "com.tongahtech.monitoring_kendaraan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434052734276-mhsb5cjf9t9mc85cs9e3tes5h67fhtvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AR_1tmosPFTqJ58uzPc7pzwsyFbK4RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434052734276-mhsb5cjf9t9mc85cs9e3tes5h67fhtvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
