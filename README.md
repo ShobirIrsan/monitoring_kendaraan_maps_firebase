@@ -20,3 +20,7 @@ program ini merupakan program untuk menampilkan posisi pada aplikasi dengan meng
 program ini bisa digunakan untuk aplikasi monitoring device iot. 
 untuk file google jaso.h anda bisa merubah filenya dengna file projek data base yang anda punya. (android -> app ->"google-services.json").
 dan untuk api key maps anda dapat merubahnya dengan yang anda punya. (/android/app/src/main/AndroidManifest.xml) >
+      <meta-data
+          android:name="com.google.android.geo.API_KEY"
+          android:value="change your value" />
+        <meta-data
